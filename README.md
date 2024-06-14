@@ -1,2 +1,2 @@
-# SIC5
-Samsing innovation camp batch 5 (IoT and AI)
+# Samsung Innovation Campus Batch 5
+Samsung Innovation Campus Batch 5 - AI & IoT Bootcamp
